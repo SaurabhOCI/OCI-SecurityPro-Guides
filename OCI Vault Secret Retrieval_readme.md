@@ -39,7 +39,7 @@ sudo dnf install python39-oci-cli
 Download the Python script from the repository:
 
 ```bash
-wget https://raw.githubusercontent.com/ou-developers/oci-vaultoperations/main/getsecret.py
+wget https://raw.githubusercontent.com/SaurabhOCI/OCI-SecurityPro-Guides/main/getsecret.py
 ```
 
 ## Configuration

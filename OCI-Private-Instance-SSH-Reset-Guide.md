@@ -951,6 +951,5 @@ For this guide, please open an issue in the repository.
 
 ---
 
-**Created by:** DevOps/Cloud Engineering Community  
 **Last Updated:** November 5, 2025  
 **Tested On:** Oracle Linux 8, OCI Compute (ARM & x86)
